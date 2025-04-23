@@ -1,0 +1,3 @@
+# backboard_detector
+visionary t miniから返ってきたpointcloudをもとに平面のローカル座標を返すノード
+https://github.com/KeioRoboticsAssociation/visionary_ros2
